@@ -9,7 +9,7 @@ import java.awt.geom.*;
 import java.awt.image.*;
 import java.awt.font.*;
 
-///
+//////
 public class Painter extends JFrame implements ActionListener {
 	private	Container c = getContentPane();
 	private	String menuBar[]={"檔案(F)","編輯(E)","檢視(V)","說明(H)"};
