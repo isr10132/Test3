@@ -9,6 +9,7 @@ import java.awt.geom.*;
 import java.awt.image.*;
 import java.awt.font.*;
 //abc
+//cde
 
 public class Painter extends JFrame implements ActionListener {
 	private	Container c = getContentPane();
